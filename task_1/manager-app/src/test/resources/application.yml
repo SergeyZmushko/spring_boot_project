@@ -1,0 +1,4 @@
+home:
+  service:
+    catalogue:
+      uri: http://localhost:54321
